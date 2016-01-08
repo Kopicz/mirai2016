@@ -1,9 +1,12 @@
-#total{
-	width: 100%;
-	height: 100%;
+.panel{
+	height: 900px;
+	background-size: 100%;
 	background-image: url("img/patinhas.png");
 }
 
+.container{
+	width: 80%;
+}
 #conteudo{
 	
 	background-color: #fff;
@@ -12,10 +15,12 @@
 #logo{
 	float: left;
 	width: 25%;
-	height: 155px;
+	height: 159px;
 	margin-top: 20px;
-	background-image: url("img/logo.png");
-	background-size: 100%;
+	background-image: url("img/logowipet.png");
+	
+	
+
 }
 
 #login{
@@ -26,7 +31,7 @@
 
 #menu{
 	float: right;
-	width: 75%;
+	width: 73%;
 	height: 40px;
 	margin-top: 40px;
 	background-color: #000;
@@ -48,12 +53,12 @@
 
 #carousel-example-generic{
 	width: 100%;
-	height: 300px;
+	height: 40px;
 	margin-top: 200px;	
 }
 
 #imgs{
-	height: 300px;
+	height: 400px;
 	width: 100%;
 }
 
